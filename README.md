@@ -7,7 +7,7 @@ So this project has to versions:
  
 This repository is for bluetooht version.
 
-Click this link for infrared version: 
+Click this link for infrared version: https://github.com/ahmetakif/Arduino-Infrared-Rc-Car
 
 Materials to use:
 - Arduino uno clone, 
@@ -23,4 +23,4 @@ Materials to use:
 - 10kohm ve 5kohm resistors, 
 - 9v battery and connector,
 
-https://www.youtube.com/watch?v=265YbpS6gwE&t=28s
+Video: https://www.youtube.com/watch?v=265YbpS6gwE&t=28s
